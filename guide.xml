@@ -1,0 +1,786 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1 HD">
+    <display-name lang="pt">RTP 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="RTP 2 HD">
+    <display-name lang="pt">RTP 2 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="RTP 3 HD">
+    <display-name lang="pt">RTP 3 HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">RTP 3</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SIC HD">
+    <display-name lang="pt">SIC HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI HD">
+    <display-name lang="pt">TVI HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SIC Notícias HD">
+    <display-name lang="pt">SIC Notícias HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20191016021600 +0100" stop="20191016023600 +0100" channel="RTP 1 HD">
+    <title lang="pt">Europa Minha</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S2E6</episode-num>
+  </programme>
+  <programme start="20191016023600 +0100" stop="20191016032100 +0100" channel="RTP 1 HD">
+    <title lang="pt">Aqui Tão Longe</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E20</episode-num>
+  </programme>
+  <programme start="20191016032100 +0100" stop="20191016041300 +0100" channel="RTP 1 HD">
+    <title lang="pt">David Attenborough e a Grande Barreira de Coral</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20191016041300 +0100" stop="20191016055900 +0100" channel="RTP 1 HD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016055900 +0100" stop="20191016063000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016063000 +0100" stop="20191016100000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016100000 +0100" stop="20191016130000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Praça da Alegria</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016130000 +0100" stop="20191016141000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016141000 +0100" stop="20191016150100 +0100" channel="RTP 1 HD">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E178</episode-num>
+  </programme>
+  <programme start="20191016150100 +0100" stop="20191016173000 +0100" channel="RTP 1 HD">
+    <title lang="pt">A Nossa Tarde</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016173000 +0100" stop="20191016190800 +0100" channel="RTP 1 HD">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016190800 +0100" stop="20191016195900 +0100" channel="RTP 1 HD">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016195900 +0100" stop="20191016210000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016210000 +0100" stop="20191016212700 +0100" channel="RTP 1 HD">
+    <title lang="pt">Cuidado com a Língua!</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E22</episode-num>
+  </programme>
+  <programme start="20191016212700 +0100" stop="20191016221100 +0100" channel="RTP 1 HD">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E104</episode-num>
+  </programme>
+  <programme start="20191016221100 +0100" stop="20191016234500 +0100" channel="RTP 1 HD">
+    <title lang="pt">Cá por Casa com Herman José</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S5E7</episode-num>
+  </programme>
+  <programme start="20191016234500 +0100" stop="20191017003300 +0100" channel="RTP 1 HD">
+    <title lang="pt">Anatomia de Grey</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S15E5</episode-num>
+  </programme>
+  <programme start="20191016003100 +0100" stop="20191016012000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Muito Barulho Para Nada</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20191016012000 +0100" stop="20191016013000 +0100" channel="RTP 2 HD">
+    <title lang="pt">ModaLisboa Collective</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20191016013000 +0100" stop="20191016023400 +0100" channel="RTP 2 HD">
+    <title lang="pt">Sociedade Civil</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S15E139</episode-num>
+  </programme>
+  <programme start="20191016023400 +0100" stop="20191016030300 +0100" channel="RTP 2 HD">
+    <title lang="pt">E2 - Escola Superior de Comunicação Social</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016030300 +0100" stop="20191016035600 +0100" channel="RTP 2 HD">
+    <title lang="pt">Selva Viva</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20191016035600 +0100" stop="20191016050600 +0100" channel="RTP 2 HD">
+    <title lang="pt">Euronews</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016050600 +0100" stop="20191016054800 +0100" channel="RTP 2 HD">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E257</episode-num>
+  </programme>
+  <programme start="20191016054800 +0100" stop="20191016063200 +0100" channel="RTP 2 HD">
+    <title lang="pt">Os Nossos Dias</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E105</episode-num>
+  </programme>
+  <programme start="20191016063200 +0100" stop="20191016070200 +0100" channel="RTP 2 HD">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016070200 +0100" stop="20191016071500 +0100" channel="RTP 2 HD">
+    <title lang="pt">Vipo, as Aventuras do Cão Voador</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E6</episode-num>
+  </programme>
+  <programme start="20191016071500 +0100" stop="20191016072800 +0100" channel="RTP 2 HD">
+    <title lang="pt">O Coelho Júlio</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E44</episode-num>
+  </programme>
+  <programme start="20191016072800 +0100" stop="20191016073900 +0100" channel="RTP 2 HD">
+    <title lang="pt">Grande e Pequeno</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E17</episode-num>
+  </programme>
+  <programme start="20191016073900 +0100" stop="20191016075300 +0100" channel="RTP 2 HD">
+    <title lang="pt">O Pátio</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E26</episode-num>
+  </programme>
+  <programme start="20191016075300 +0100" stop="20191016075800 +0100" channel="RTP 2 HD">
+    <title lang="pt">A Grande Descoberta</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E23</episode-num>
+  </programme>
+  <programme start="20191016075800 +0100" stop="20191016080300 +0100" channel="RTP 2 HD">
+    <title lang="pt">Kiwi</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E46</episode-num>
+  </programme>
+  <programme start="20191016080300 +0100" stop="20191016081500 +0100" channel="RTP 2 HD">
+    <title lang="pt">Peg e o Gato</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E7</episode-num>
+  </programme>
+  <programme start="20191016081500 +0100" stop="20191016083000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Peg e o Gato</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E8</episode-num>
+  </programme>
+  <programme start="20191016083000 +0100" stop="20191016083800 +0100" channel="RTP 2 HD">
+    <title lang="pt">As Aventuras da Miffy</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E45</episode-num>
+  </programme>
+  <programme start="20191016083800 +0100" stop="20191016085000 +0100" channel="RTP 2 HD">
+    <title lang="pt">O Mundo de Luna!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E38</episode-num>
+  </programme>
+  <programme start="20191016085000 +0100" stop="20191016091300 +0100" channel="RTP 2 HD">
+    <title lang="pt">Lucas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E35</episode-num>
+  </programme>
+  <programme start="20191016091300 +0100" stop="20191016092500 +0100" channel="RTP 2 HD">
+    <title lang="pt">Estela e Simão</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E26</episode-num>
+  </programme>
+  <programme start="20191016092500 +0100" stop="20191016093700 +0100" channel="RTP 2 HD">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E37</episode-num>
+  </programme>
+  <programme start="20191016093700 +0100" stop="20191016095000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E38</episode-num>
+  </programme>
+  <programme start="20191016095000 +0100" stop="20191016095900 +0100" channel="RTP 2 HD">
+    <title lang="pt">As Perguntas da Mily</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E50</episode-num>
+  </programme>
+  <programme start="20191016095900 +0100" stop="20191016101100 +0100" channel="RTP 2 HD">
+    <title lang="pt">Robin dos Bosques - Travessuras em Sherwood</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E35</episode-num>
+  </programme>
+  <programme start="20191016101100 +0100" stop="20191016102300 +0100" channel="RTP 2 HD">
+    <title lang="pt">A Mirette Investiga</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E50</episode-num>
+  </programme>
+  <programme start="20191016102300 +0100" stop="20191016103200 +0100" channel="RTP 2 HD">
+    <title lang="pt">Os Bochechas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E22</episode-num>
+  </programme>
+  <programme start="20191016103200 +0100" stop="20191016104300 +0100" channel="RTP 2 HD">
+    <title lang="pt">Ao Resgate da Selva</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E10</episode-num>
+  </programme>
+  <programme start="20191016104300 +0100" stop="20191016105800 +0100" channel="RTP 2 HD">
+    <title lang="pt">Bottersnikes &amp; Gumbles</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E46</episode-num>
+  </programme>
+  <programme start="20191016105800 +0100" stop="20191016112400 +0100" channel="RTP 2 HD">
+    <title lang="pt">Degrassi: A Turma Seguinte</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20191016112400 +0100" stop="20191016120800 +0100" channel="RTP 2 HD">
+    <title lang="pt">Cultura Antiga</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E12</episode-num>
+  </programme>
+  <programme start="20191016120800 +0100" stop="20191016130300 +0100" channel="RTP 2 HD">
+    <title lang="pt">Candice Renoir</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S6E5</episode-num>
+  </programme>
+  <programme start="20191016130300 +0100" stop="20191016131700 +0100" channel="RTP 2 HD">
+    <title lang="pt">3 AmigoNautas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E25</episode-num>
+  </programme>
+  <programme start="20191016131700 +0100" stop="20191016133000 +0100" channel="RTP 2 HD">
+    <title lang="pt">3 AmigoNautas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E26</episode-num>
+  </programme>
+  <programme start="20191016133000 +0100" stop="20191016135200 +0100" channel="RTP 2 HD">
+    <title lang="pt">Boss Baby</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E23</episode-num>
+  </programme>
+  <programme start="20191016135200 +0100" stop="20191016140000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Folha de Sala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016140000 +0100" stop="20191016150300 +0100" channel="RTP 2 HD">
+    <title lang="pt">Sociedade Civil</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S15E140</episode-num>
+  </programme>
+  <programme start="20191016150300 +0100" stop="20191016153800 +0100" channel="RTP 2 HD">
+    <title lang="pt">A Fé dos Homens</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016153800 +0100" stop="20191016160600 +0100" channel="RTP 2 HD">
+    <title lang="pt">Nada Será como Dante</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20191016160600 +0100" stop="20191016165300 +0100" channel="RTP 2 HD">
+    <title lang="pt">Selva Viva</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E15</episode-num>
+  </programme>
+  <programme start="20191016165300 +0100" stop="20191016170300 +0100" channel="RTP 2 HD">
+    <title lang="pt">O Coelho Júlio</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E43</episode-num>
+  </programme>
+  <programme start="20191016170300 +0100" stop="20191016171500 +0100" channel="RTP 2 HD">
+    <title lang="pt">Grande e Pequeno</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E14</episode-num>
+  </programme>
+  <programme start="20191016171500 +0100" stop="20191016172000 +0100" channel="RTP 2 HD">
+    <title lang="pt">A Grande Descoberta</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E22</episode-num>
+  </programme>
+  <programme start="20191016172000 +0100" stop="20191016174100 +0100" channel="RTP 2 HD">
+    <title lang="pt">Lucas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E32</episode-num>
+  </programme>
+  <programme start="20191016174100 +0100" stop="20191016175400 +0100" channel="RTP 2 HD">
+    <title lang="pt">Bali</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E13</episode-num>
+  </programme>
+  <programme start="20191016175400 +0100" stop="20191016180100 +0100" channel="RTP 2 HD">
+    <title lang="pt">Kiwi</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E45</episode-num>
+  </programme>
+  <programme start="20191016180100 +0100" stop="20191016180800 +0100" channel="RTP 2 HD">
+    <title lang="pt">As Aventuras da Miffy</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E41</episode-num>
+  </programme>
+  <programme start="20191016180800 +0100" stop="20191016182000 +0100" channel="RTP 2 HD">
+    <title lang="pt">O Mundo de Luna!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E35</episode-num>
+  </programme>
+  <programme start="20191016182000 +0100" stop="20191016183300 +0100" channel="RTP 2 HD">
+    <title lang="pt">A Abelha Maia</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E4</episode-num>
+  </programme>
+  <programme start="20191016183300 +0100" stop="20191016184600 +0100" channel="RTP 2 HD">
+    <title lang="pt">O Pátio</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E23</episode-num>
+  </programme>
+  <programme start="20191016184600 +0100" stop="20191016185900 +0100" channel="RTP 2 HD">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E31</episode-num>
+  </programme>
+  <programme start="20191016185900 +0100" stop="20191016191200 +0100" channel="RTP 2 HD">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E32</episode-num>
+  </programme>
+  <programme start="20191016191200 +0100" stop="20191016192000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Os Bochechas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E11</episode-num>
+  </programme>
+  <programme start="20191016192000 +0100" stop="20191016193500 +0100" channel="RTP 2 HD">
+    <title lang="pt">Peg e o Gato</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E5</episode-num>
+  </programme>
+  <programme start="20191016193500 +0100" stop="20191016194200 +0100" channel="RTP 2 HD">
+    <title lang="pt">As Perguntas da Mily</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E46</episode-num>
+  </programme>
+  <programme start="20191016194200 +0100" stop="20191016195400 +0100" channel="RTP 2 HD">
+    <title lang="pt">Robin dos Bosques - Travessuras em Sherwood</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E31</episode-num>
+  </programme>
+  <programme start="20191016195400 +0100" stop="20191016200500 +0100" channel="RTP 2 HD">
+    <title lang="pt">A Mirette Investiga</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E46</episode-num>
+  </programme>
+  <programme start="20191016200500 +0100" stop="20191016201700 +0100" channel="RTP 2 HD">
+    <title lang="pt">Ao Resgate da Selva</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E42</episode-num>
+  </programme>
+  <programme start="20191016201700 +0100" stop="20191016203100 +0100" channel="RTP 2 HD">
+    <title lang="pt">Bottersnikes &amp; Gumbles</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E42</episode-num>
+  </programme>
+  <programme start="20191016203100 +0100" stop="20191016205300 +0100" channel="RTP 2 HD">
+    <title lang="pt">Boss Baby</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E22</episode-num>
+  </programme>
+  <programme start="20191016205300 +0100" stop="20191016205900 +0100" channel="RTP 2 HD">
+    <title lang="pt">Banda Zig Zag</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
+  </programme>
+  <programme start="20191016205900 +0100" stop="20191016213000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Prontos Para Tudo</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E13</episode-num>
+  </programme>
+  <programme start="20191016213000 +0100" stop="20191016220400 +0100" channel="RTP 2 HD">
+    <title lang="pt">Jornal 2</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E287</episode-num>
+  </programme>
+  <programme start="20191016220400 +0100" stop="20191016221200 +0100" channel="RTP 2 HD">
+    <title lang="pt">Folha de Sala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016221200 +0100" stop="20191016230600 +0100" channel="RTP 2 HD">
+    <title lang="pt">Encurralados</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E8</episode-num>
+  </programme>
+  <programme start="20191016230600 +0100" stop="20191017003900 +0100" channel="RTP 2 HD">
+    <title lang="pt">Até que o Porno nos Separe</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20191016003000 +0100" stop="20191016024500 +0100" channel="SIC HD">
+    <title lang="pt">Passadeira Vermelha</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S6E172</episode-num>
+  </programme>
+  <programme start="20191016024500 +0100" stop="20191016053500 +0100" channel="SIC HD">
+    <title lang="pt">Investigação Criminal</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S15E18</episode-num>
+  </programme>
+  <programme start="20191016053500 +0100" stop="20191016060000 +0100" channel="SIC HD">
+    <title lang="pt">Os Malucos do Riso</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S11E12</episode-num>
+  </programme>
+  <programme start="20191016060000 +0100" stop="20191016091500 +0100" channel="SIC HD">
+    <title lang="pt">Edição da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016091500 +0100" stop="20191016101500 +0100" channel="SIC HD">
+    <title lang="pt">Alô Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S11E73</episode-num>
+  </programme>
+  <programme start="20191016101500 +0100" stop="20191016130000 +0100" channel="SIC HD">
+    <title lang="pt">O Programa da Cristina</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E203</episode-num>
+  </programme>
+  <programme start="20191016130000 +0100" stop="20191016145500 +0100" channel="SIC HD">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016145500 +0100" stop="20191016161500 +0100" channel="SIC HD">
+    <title lang="pt">Amor Maior</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E140</episode-num>
+  </programme>
+  <programme start="20191016161500 +0100" stop="20191016181500 +0100" channel="SIC HD">
+    <title lang="pt">Júlia - Emoções Fortes</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E188</episode-num>
+  </programme>
+  <programme start="20191016181500 +0100" stop="20191016191000 +0100" channel="SIC HD">
+    <title lang="pt">Avenida Brasil</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E201</episode-num>
+  </programme>
+  <programme start="20191016191000 +0100" stop="20191016194000 +0100" channel="SIC HD">
+    <title lang="pt">Prémio de Sonho</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E53</episode-num>
+  </programme>
+  <programme start="20191016194000 +0100" stop="20191016195700 +0100" channel="SIC HD">
+    <title lang="pt">Casados À Primeira Vista - Diário</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E3</episode-num>
+  </programme>
+  <programme start="20191016195700 +0100" stop="20191016214000 +0100" channel="SIC HD">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016214000 +0100" stop="20191016222000 +0100" channel="SIC HD">
+    <title lang="pt">Nazaré</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E28</episode-num>
+  </programme>
+  <programme start="20191016222000 +0100" stop="20191016230000 +0100" channel="SIC HD">
+    <title lang="pt">Golpe de Sorte</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E25</episode-num>
+  </programme>
+  <programme start="20191016230000 +0100" stop="20191016234500 +0100" channel="SIC HD">
+    <title lang="pt">Casados À Primeira Vista - Extra</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E3</episode-num>
+  </programme>
+  <programme start="20191016234500 +0100" stop="20191017003000 +0100" channel="SIC HD">
+    <title lang="pt">A Dona do Pedaço</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E98</episode-num>
+  </programme>
+  <programme start="20191016033500 +0100" stop="20191016053800 +0100" channel="SIC">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Aspiradores mais potentes do que o motor de um avião, colchões insufláveis, máquinas que transformam a flácida barriga em portentosos abdominais e mais, muito mais, à distância de um telefonema(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13095013/M" />
+  </programme>
+  <programme start="20191016053800 +0100" stop="20191016060000 +0100" channel="SIC">
+    <title lang="pt">Os Malucos do Riso</title>
+    <desc lang="pt">Anedotas, chalaças, piadas e graçolas, ao longo de pequenos sketches(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13094985/M" />
+  </programme>
+  <programme start="20191016060000 +0100" stop="20191016091500 +0100" channel="SIC">
+    <title lang="pt">Edição Da Manhã</title>
+    <desc lang="pt">Na Edição da Manhã, às notícias somam-se as primeiras páginas dos jornais, o trânsito em Lisboa e no Porto, a meteorologia, os mercados bolsistas e o Jornal de Economia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13095016/M" />
+  </programme>
+  <programme start="20191016091500 +0100" stop="20191016101500 +0100" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
+    <desc lang="pt">“Alô Portugal” é uma sala de estar e de conversar bem ao estilo do seu apresentador, José Figueiras e dos seus ilustres convidados e o ponto de encontro das comunidades portuguesas espalhadas pelos 5 continentes(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13094988/M" />
+  </programme>
+  <programme start="20191016101500 +0100" stop="20191016130000 +0100" channel="SIC">
+    <title lang="pt">O Programa da Cristina</title>
+    <desc lang="pt">Cristina Ferreira conduz diariamente este talk-show como se estivesse na sua própria casa. A boa disposição está garantida e as surpresas farão parte do dia-a-dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13094991/M" />
+    <episode-num system="onscreen">S1 E203</episode-num>
+  </programme>
+  <programme start="20191016130000 +0100" stop="20191016145500 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+    <desc lang="pt">Toda a atualidade sobre as principais notícias do dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13095019/M" />
+  </programme>
+  <programme start="20191016145500 +0100" stop="20191016161500 +0100" channel="SIC">
+    <title lang="pt">Amor Maior</title>
+    <desc lang="pt">Clara quer resgatar as irmãs das mãos da madrasta, Francisca, para quem a maldade é uma verdadeira arte. Mas não será fácil, já que Clara comete alguns erros e se torna numa suposta criminosa em quem ninguém acredita a não ser Manuel, inspetor da Polícia Judiciária e o grande amor da sua vida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/9541867/M" />
+    <episode-num system="onscreen">E141</episode-num>
+  </programme>
+  <programme start="20191016161500 +0100" stop="20191016181500 +0100" channel="SIC">
+    <title lang="pt">Júlia</title>
+    <desc lang="pt">Vidas inspiradoras, conversas inesquecíveis num espaço certo para receber, ouvir e surpreender. Histórias de vida que ficam para sempre. Um programa de Júlia Pinheiro(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13094996/M" />
+    <episode-num system="onscreen">S2 E194</episode-num>
+  </programme>
+  <programme start="20191016181500 +0100" stop="20191016191000 +0100" channel="SIC">
+    <title lang="pt">Avenida Brasil</title>
+    <desc lang="pt">A história dramática de Rita que perdeu o pai quando criança e foi abandonada pela madrasta, Carminha, tendo sido criada por Lucinda até ser levada para a Argentina. Anos mais tarde, volta ao Brasil como Nina para se vingar de Carminha que deu o 'golpe' no seu pai biológico, causando a morte dele..(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/5408841/M" />
+    <episode-num system="onscreen">E201</episode-num>
+  </programme>
+  <programme start="20191016191000 +0100" stop="20191016194000 +0100" channel="SIC">
+    <title lang="pt">Prémio De Sonho</title>
+    <desc lang="pt">Tem um sonho por concretizar? No “Prémio de Sonho” pode estar a oportunidade de realizá-lo. Aqui são os concorrentes que escolhem os prémios e podem ganhar aquilo que realmente desejam. Conduzido por Cristina Ferreira, cada edição será sempre imprevisível e garantidamente animada(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13095001/M" />
+    <episode-num system="onscreen">S1 E53</episode-num>
+  </programme>
+  <programme start="20191016194000 +0100" stop="20191016195700 +0100" channel="SIC">
+    <title lang="pt">Casados à Primeira Vista - Diários</title>
+    <desc lang="pt">Pessoas solteiras cuidadosamente selecionadas – todas já tentaram tudo por tudo para encontrar o verdadeiro amor, sem sucesso – põem agora nas mãos deste formato o sonho de encontrar o amor das suas vidas. Cada um dos candidatos casará com um estranho. Não se conhecem, mas têm muito em comum. Apresentado por Diana Chaves(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13095004/M" />
+  </programme>
+  <programme start="20191016195700 +0100" stop="20191016214000 +0100" channel="SIC">
+    <title lang="pt">Jornal Da Noite</title>
+    <desc lang="pt">Toda a atualidade sobre as principais notícias do dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13095022/M" />
+  </programme>
+  <programme start="20191016214000 +0100" stop="20191016222000 +0100" channel="SIC">
+    <title lang="pt">Nazaré</title>
+    <desc lang="pt">Nazaré mente a Duarte sobre Matilde e diz-lhe que está em Lisboa em tratamentos. Ela quer saber se Duarte a ama ao ponto de largar tudo por ela(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13095007/M" />
+    <episode-num system="onscreen">E28</episode-num>
+  </programme>
+  <programme start="20191016222000 +0100" stop="20191016230000 +0100" channel="SIC">
+    <title lang="pt">Golpe De Sorte</title>
+    <desc lang="pt">Bruno quer lutar pela família mas Jéssica, que está totalmente diferente e cheia de vontade de ser a mulher perfeita para o filho de Céu, não deixa que o dono do Boémio comece já a trabalhar(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135039/M" />
+    <episode-num system="onscreen">S3 E25</episode-num>
+  </programme>
+  <programme start="20191016230000 +0100" stop="20191016234500 +0100" channel="SIC">
+    <title lang="pt">Casados à Primeira Vista - Extra</title>
+    <desc lang="pt">Pessoas solteiras cuidadosamente selecionadas – todas já tentaram tudo por tudo para encontrar o verdadeiro amor, sem sucesso – põem agora nas mãos deste formato o sonho de encontrar o amor das suas vidas. Cada um dos candidatos casará com um estranho. Não se conhecem, mas têm muito em comum. Apresentado por Diana Chaves(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144596/M" />
+  </programme>
+  <programme start="20191016234500 +0100" stop="20191017003000 +0100" channel="SIC">
+    <title lang="pt">A Dona Do Pedaço</title>
+    <desc lang="pt">Maria da Paz é uma jovem humilde que se apaixona por Amadeu, um advogado e membro de uma família de negócios. No dia do seu casamento, Maria da Paz e Amadeu são afastados por uma tragédia. A Dona do Pedaço fala da certeza de que todos podem encontrar seu lugar no mundo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13095010/M" />
+    <episode-num system="onscreen">E98</episode-num>
+  </programme>
+  <programme start="20191016005000 +0100" stop="20191016023000 +0100" channel="TVI HD">
+    <title lang="pt">1000 à Hora</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016023000 +0100" stop="20191016032500 +0100" channel="TVI HD">
+    <title lang="pt">Meu Amor</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016032500 +0100" stop="20191016042000 +0100" channel="TVI HD">
+    <title lang="pt">Remédio Santo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016042000 +0100" stop="20191016050000 +0100" channel="TVI HD">
+    <title lang="pt">Saber Amar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016050000 +0100" stop="20191016063000 +0100" channel="TVI HD">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016063000 +0100" stop="20191016101400 +0100" channel="TVI HD">
+    <title lang="pt">Diário da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016101400 +0100" stop="20191016130000 +0100" channel="TVI HD">
+    <title lang="pt">Você na TV</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016130000 +0100" stop="20191016144700 +0100" channel="TVI HD">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016144700 +0100" stop="20191016161500 +0100" channel="TVI HD">
+    <title lang="pt">Belmonte</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016161500 +0100" stop="20191016191400 +0100" channel="TVI HD">
+    <title lang="pt">A Tarde é Sua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016191400 +0100" stop="20191016195600 +0100" channel="TVI HD">
+    <title lang="pt">Ver p’ra crer</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016195600 +0100" stop="20191016213500 +0100" channel="TVI HD">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016213500 +0100" stop="20191016224500 +0100" channel="TVI HD">
+    <title lang="pt">Na Corda Bamba</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E28</episode-num>
+  </programme>
+  <programme start="20191016224500 +0100" stop="20191016234300 +0100" channel="TVI HD">
+    <title lang="pt">Prisioneira</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E129</episode-num>
+  </programme>
+  <programme start="20191016234300 +0100" stop="20191017004800 +0100" channel="TVI HD">
+    <title lang="pt">Mar de Paixão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20191016010000 +0100" stop="20191016012500 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016012500 +0100" stop="20191016014000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Cartaz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E202</episode-num>
+  </programme>
+  <programme start="20191016014000 +0100" stop="20191016020500 +0100" channel="SIC Notícias HD">
+    <title lang="pt">As Causas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E31</episode-num>
+  </programme>
+  <programme start="20191016020500 +0100" stop="20191016030500 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Tempo Extra</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S1E37</episode-num>
+  </programme>
+  <programme start="20191016030500 +0100" stop="20191016033000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016033000 +0100" stop="20191016042500 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Toda a Verdade: México - Mulheres Sem Nome</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20191016042500 +0100" stop="20191016045000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016045000 +0100" stop="20191016053500 +0100" channel="SIC Notícias HD">
+    <title lang="pt">60 Minutos</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S10E2</episode-num>
+  </programme>
+  <programme start="20191016053500 +0100" stop="20191016060000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016060000 +0100" stop="20191016094500 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Edição da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016094500 +0100" stop="20191016100000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Exame Informática</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E32</episode-num>
+  </programme>
+  <programme start="20191016100000 +0100" stop="20191016110000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Jornal das Dez</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016110000 +0100" stop="20191016111000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016111000 +0100" stop="20191016120000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Opinião Pública</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016120000 +0100" stop="20191016130000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Jornal do Meio-Dia</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016130000 +0100" stop="20191016133000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016133000 +0100" stop="20191016134500 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Espaços &amp; Casas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E41</episode-num>
+  </programme>
+  <programme start="20191016134500 +0100" stop="20191016142500 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Jornal das Duas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016142500 +0100" stop="20191016163000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Edição da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016163000 +0100" stop="20191016170000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Desporto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20191016170000 +0100" stop="20191016185500 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Edição da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016185500 +0100" stop="20191016195700 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Jornal das 7</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016195700 +0100" stop="20191016210000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016210000 +0100" stop="20191016230000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Edição da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20191016230000 +0100" stop="20191017000000 +0100" channel="SIC Notícias HD">
+    <title lang="pt">Negócios da Semana</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E24</episode-num>
+  </programme>
+</tv>
